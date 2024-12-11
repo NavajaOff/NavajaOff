@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
- &nbsp;💡 I like to explore new technologies and develop software solutions and quick tricks.
- &nbsp;🎓 I am currently studying a technologist in software analysis and development
- &nbsp;✍️ In my free time, I dedicate myself to improving my programming logic by practicing every day.
+###💡 &nbsp;I like to explore new technologies and develop software solutions and quick tricks.
+###🎓 &nbsp;I am currently studying a technologist in software analysis and development
+###✍️ &nbsp;In my free time, I dedicate myself to improving my programming logic by practicing every day.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
